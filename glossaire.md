@@ -49,6 +49,7 @@ Dates de rendu :
 ### Fichier d’autorité
 
 ### Folksonomie
+Isabelle Algrin
 
 ### Format (de métadonnées, d’un modèle documentaire)
 
@@ -79,6 +80,7 @@ Dates de rendu :
 ### Langage documentaire
 
 ### LIDO (Lightweight Information Describing Objects)
+Isabelle Algrin
 
 ### Linked Open Data
 
@@ -113,6 +115,7 @@ Dates de rendu :
 ### Tag
 
 ### Thesaurus
+Isabelle Algrin
 
 ### URI Uniform Resource Identifier
 
